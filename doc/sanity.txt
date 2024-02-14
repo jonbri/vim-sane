@@ -5,6 +5,12 @@ License: Same terms as Vim itself (see |license|)
 
 INTRODUCTION                                    *sanity*
 
+Prints out a word. For debugging.
+
+Invoke with either |:Sanity| or zs.
+
+                                                *zs*
+<zs> Print word
 
 ABOUT                                           *sanity-about*
 
