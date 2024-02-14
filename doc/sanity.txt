@@ -1,0 +1,15 @@
+*sanity.txt*
+
+Author:  Jonathan Brink
+License: Same terms as Vim itself (see |license|)
+
+INTRODUCTION                                    *sanity*
+
+
+ABOUT                                           *sanity-about*
+
+Grab the latest version or report a bug on GitHub:
+
+https://github.com/jonbri/vim-escroll
+
+ vim:tw=78:et:ft=help:norl:
