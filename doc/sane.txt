@@ -1,18 +1,18 @@
-*sanity.txt*
+*sane.txt*
 
 Author:  Jonathan Brink
 License: Same terms as Vim itself (see |license|)
 
-INTRODUCTION                                    *sanity*
+INTRODUCTION                                    *sane*
 
 Prints out a word. For debugging.
 
-Invoke with either |:Sanity| or zs.
+Invoke with either |:Sane| or zs.
 
                                                 *zs*
 <zs> Print word
 
-ABOUT                                           *sanity-about*
+ABOUT                                           *sane-about*
 
 Grab the latest version or report a bug on GitHub:
 
