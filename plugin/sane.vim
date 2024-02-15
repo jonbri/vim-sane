@@ -9,7 +9,8 @@ let g:loaded_sane = 1
 let g:sane_word = "sane"
 
 function! Sane()
-  execute "normal! i" . g:sane_word
+  execute "normal! a" . g:sane_word
+  normal! b
 endfunction
 
 command! -nargs=0 Sane call Sane()
