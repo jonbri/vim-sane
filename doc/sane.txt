@@ -16,6 +16,6 @@ ABOUT                                           *sane-about*
 
 Grab the latest version or report a bug on GitHub:
 
-https://github.com/jonbri/vim-escroll
+https://github.com/jonbri/vim-sane
 
  vim:tw=78:et:ft=help:norl:
